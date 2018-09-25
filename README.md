@@ -24,20 +24,20 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Kind of curious about what are better designs to the Yelp application. 
+2. How to implement maps with the Yelp application.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![yelp_assignment](https://user-images.githubusercontent.com/8825679/45989578-e5772c80-c041-11e8-96fb-754f66a0e1b0.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I enjoyed learning about autolayout through this assignment. I thought it was cool making the Yelp the page considering it's an application used by many people. I hope we get to use other applications in a similar sense in the future too.  
 
 ## License
 
